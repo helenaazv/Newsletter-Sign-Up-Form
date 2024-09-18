@@ -1,7 +1,7 @@
 
 
 ## Overview
-This is a solution to the Newsletter sign-up form with success message challenge fromFrontend Mentor
+This is my solution to the Newsletter sign-up form with success message challenge 
 
 ### The challenge
 Users will be able to:
@@ -11,7 +11,6 @@ Users will be able to:
 - See form validation messages if:
   - The field is left empty
   - The email address is not formatted correctly
-- View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
