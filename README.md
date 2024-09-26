@@ -3,7 +3,6 @@
 ## Overview
 This is my solution to the Newsletter sign-up form with success message challenge 
 
-### The challenge
 Users will be able to:
 
 - Add their email and submit the form
