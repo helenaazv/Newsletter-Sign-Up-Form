@@ -1,7 +1,7 @@
 
 
 ## Overview
-This is my solution to the "Newsletter sign-up form with a success message" challenge from [Front](https://www.frontendmentor.io/)
+This is my solution to the "Newsletter sign-up form with a success message" challenge from [Front End Mentor](https://www.frontendmentor.io/)
 
 Users will be able to:
 
